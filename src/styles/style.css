@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: #252323;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 100px 0;
+}
+
+button {
+    padding: 20px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    color: #252323;
+}
+
+#result {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#rock {
+    background-color: #D2BF55;
+}
+
+#paper {
+    background-color: #F7B1AB;
+}
+
+#scissors {
+    background-color: #749FBE;
+}
